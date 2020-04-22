@@ -1,0 +1,13 @@
+@media (min-width: 601px) and (max-width: 1100px);
+body {
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+/* 
+#text-h1-creation-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+} */
